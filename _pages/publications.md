@@ -17,8 +17,12 @@ author_profile: true
   {% include archive-single-pub.html %}
 {% endfor %}
 
+
+
+{% comment %}
 <table>
 {% tablerow post in site.publications reversed cols:1 %}
-    {{ post.date | date: "%Y" }} <td> {{ post.venue }} <td> <a href="{{post.paperurl}}">{{post.title}} </a>  
+    {{ post.date | date: "%Y" }} </td><td> {{ post.venue }} </td><td> <a href="{{post.paperurl}}">{{post.title}} </a>  
 {% endtablerow %}
 </table>
+{% endcomment %}

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Devansh Agrawal / Personal Website"
+title                    : "Devansh Agrawal"
 title_separator          : "-"
 name                     : &name "Devansh Agrawal"
 description              : &description "Personal Website"
@@ -85,7 +85,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "London, UK"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.co.uk/citations?user=0R2CO0wAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
