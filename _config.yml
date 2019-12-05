@@ -13,7 +13,7 @@ name                     : &name "Devansh Agrawal"
 description              : &description "Personal Website"
 url                      : https://dev10110.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dev10110/academicpages.github.io"
+repository               : "dev10110/dev10110.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Devansh Agrawal"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Senior (4th year), Aeronautical engineering"
   location         : "London, UK"
   employer         :
   pubmed           :
