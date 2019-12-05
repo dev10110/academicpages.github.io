@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* BEng & MEng, Aeronautical Engineering with a Year Abroad, Imperial College London (Expected)
-* (Non-degree), Year Exchange Program, Massachusetts Institute of Technology
+* IBDP,  International Baccalaureate Diploma Programme, Anglo-Chinese School (Independent), Singapore
+* BEng & MEng, Aeronautical Engineering with a Year Abroad, Imperial College London, UK (Expected)
+* (Non-degree), Year Exchange Program, Massachusetts Institute of Technology, USA
 
 Work/Research experience
 ======
