@@ -12,5 +12,11 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-pub.html %}
+{% endfor %}
+
+
+{% for post in site.publications reversed %}
+    {{ post.date | default: "1900-01-01" | date: "%Y" }}
+    {{ post.venue }}
 {% endfor %}
